@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/brianvoe/gofakeit/v6 v6.22.0
 	github.com/gavv/httpexpect/v2 v2.15.0
-	github.com/go-chi/chi/v5 v5.0.8
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/go-chi/render v1.0.2
 	github.com/go-playground/validator/v10 v10.14.1
 	github.com/ilyakaznacheev/cleanenv v1.4.2
